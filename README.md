@@ -40,7 +40,7 @@ This will create a virtual environment and install the needed packages.
 4. **Run the script:**
 
 ```bash
-poetry run python bellman-grid-solver
+poetry run bellman-grid-solver
 ```
 
 You should see a **PyGame** window showing grid solving process.
